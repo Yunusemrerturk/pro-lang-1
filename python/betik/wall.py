@@ -7,6 +7,8 @@
 # emineker                          group19
 ###########################################
 
+# gerekli olan moduller python-mechanize python-beautifulsoup
+
 import mechanize, cookielib, os, sys, re, BeautifulSoup
 
 url   = "http://www.wallbase.net/wallpaper/"    # sitenin ismini belirleyelim
