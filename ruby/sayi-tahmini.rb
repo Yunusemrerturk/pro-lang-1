@@ -58,5 +58,3 @@ if __FILE__ == $0
   tahmin.basla
   puts tahmin
 end
-
-
