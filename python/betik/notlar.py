@@ -1,6 +1,9 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
+# gerekli paketler için
+# sudo apt-get install python-reportlab python-pyPdf
+
 from reportlab.pdfgen import canvas
 from reportlab.pdfbase.pdfmetrics import registerFont
 from reportlab.pdfbase.ttfonts import TTFont
